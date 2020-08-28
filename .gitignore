@@ -1,0 +1,11 @@
+node_modules
+.env
+package-lock.json
+npm-debug.log
+src
+.eslintrc.json
+.prettierrc
+babel.config.json
+Dockerfile
+docker-compose.yml
+.dockerignore
